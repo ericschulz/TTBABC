@@ -1,0 +1,481 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Br{\"o}der%
+}{%
+Br{\"o}der%
+}{%
+{\protect \APACyear {2000}}%
+}]{%
+broder2000assessing}
+\APACinsertmetastar {%
+broder2000assessing}%
+\begin{APACrefauthors}%
+Br{\"o}der, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2000}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Assessing the empirical validity of the" Take-the-best"
+  heuristic as a model of human probabilistic inference.} {Assessing the
+  empirical validity of the" take-the-best" heuristic as a model of human
+  probabilistic inference.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Experimental Psychology: Learning, Memory,
+  and Cognition}{26}{5}{1332}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Br{\"o}der%
+}{%
+Br{\"o}der%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+broder2012quest}
+\APACinsertmetastar {%
+broder2012quest}%
+\begin{APACrefauthors}%
+Br{\"o}der, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The quest for take the best—insights and outlooks from
+  experimental research} {The quest for take the best—insights and outlooks
+  from experimental research}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Ecological rationality: Intelligence in the
+  world}{}{}{216--240}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Brooks%
+}{%
+Brooks%
+}{%
+{\protect \APACyear {2003}}%
+}]{%
+brooks2003bayesian}
+\APACinsertmetastar {%
+brooks2003bayesian}%
+\begin{APACrefauthors}%
+Brooks, S\BPBI P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2003}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Bayesian computation: a statistical revolution}
+  {Bayesian computation: a statistical revolution}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Philosophical Transactions of the Royal Society of
+  London. Series A: Mathematical, Physical and Engineering
+  Sciences}{361}{1813}{2681--2697}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Chater%
+, Oaksford%
+, Nakisa%
+\BCBL {}\ \BBA {} Redington%
+}{%
+Chater%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2003}}%
+}]{%
+chater2003fast}
+\APACinsertmetastar {%
+chater2003fast}%
+\begin{APACrefauthors}%
+Chater, N.%
+, Oaksford, M.%
+, Nakisa, R.%
+\BCBL {}\ \BBA {} Redington, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2003}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Fast, frugal, and rational: How rational norms explain
+  behavior} {Fast, frugal, and rational: How rational norms explain
+  behavior}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Organizational behavior and human decision
+  processes}{90}{1}{63--86}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Csill{\'e}ry%
+, Blum%
+, Gaggiotti%
+\BCBL {}\ \BBA {} Fran{\c{c}}ois%
+}{%
+Csill{\'e}ry%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2010}}%
+}]{%
+csillery2010approximate}
+\APACinsertmetastar {%
+csillery2010approximate}%
+\begin{APACrefauthors}%
+Csill{\'e}ry, K.%
+, Blum, M\BPBI G.%
+, Gaggiotti, O\BPBI E.%
+\BCBL {}\ \BBA {} Fran{\c{c}}ois, O.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Approximate Bayesian computation (ABC) in practice}
+  {Approximate bayesian computation (abc) in practice}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Trends in ecology \& evolution}{25}{7}{410--418}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Dagum%
+\ \BBA {} Luby%
+}{%
+Dagum%
+\ \BBA {} Luby%
+}{%
+{\protect \APACyear {1993}}%
+}]{%
+dagum1993approximating}
+\APACinsertmetastar {%
+dagum1993approximating}%
+\begin{APACrefauthors}%
+Dagum, P.%
+\BCBT {}\ \BBA {} Luby, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1993}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Approximating probabilistic inference in Bayesian belief
+  networks is NP-hard} {Approximating probabilistic inference in bayesian
+  belief networks is np-hard}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Artificial intelligence}{60}{1}{141--153}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gigerenzer%
+\ \BBA {} Brighton%
+}{%
+Gigerenzer%
+\ \BBA {} Brighton%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+gigerenzer2009homo}
+\APACinsertmetastar {%
+gigerenzer2009homo}%
+\begin{APACrefauthors}%
+Gigerenzer, G.%
+\BCBT {}\ \BBA {} Brighton, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Homo heuristicus: Why biased minds make better
+  inferences} {Homo heuristicus: Why biased minds make better
+  inferences}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Topics in Cognitive Science}{1}{1}{107--143}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gigerenzer%
+\ \BBA {} Gaissmaier%
+}{%
+Gigerenzer%
+\ \BBA {} Gaissmaier%
+}{%
+{\protect \APACyear {2011}}%
+}]{%
+gigerenzer2011heuristic}
+\APACinsertmetastar {%
+gigerenzer2011heuristic}%
+\begin{APACrefauthors}%
+Gigerenzer, G.%
+\BCBT {}\ \BBA {} Gaissmaier, W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Heuristic decision making} {Heuristic decision
+  making}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Annual review of psychology}{62}{}{451--482}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gigerenzer%
+\ \BBA {} Goldstein%
+}{%
+Gigerenzer%
+\ \BBA {} Goldstein%
+}{%
+{\protect \APACyear {1999}}%
+}]{%
+gigerenzer1999betting}
+\APACinsertmetastar {%
+gigerenzer1999betting}%
+\begin{APACrefauthors}%
+Gigerenzer, G.%
+\BCBT {}\ \BBA {} Goldstein, D\BPBI G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1999}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Betting on one good reason: take the best and its
+  relatives} {Betting on one good reason: take the best and its
+  relatives}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Simple Heuristics that Make Us Smart. Oxford University
+  Press, New York}{}{}{75--95}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gigerenzer%
+\ \BBA {} Todd%
+}{%
+Gigerenzer%
+\ \BBA {} Todd%
+}{%
+{\protect \APACyear {1999}}%
+}]{%
+gigerenzer1999simple}
+\APACinsertmetastar {%
+gigerenzer1999simple}%
+\begin{APACrefauthors}%
+Gigerenzer, G.%
+\BCBT {}\ \BBA {} Todd, P\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1999}.
+\newblock
+\APACrefbtitle {Simple heuristics that make us smart} {Simple heuristics that
+  make us smart}.
+\newblock
+\APACaddressPublisher{}{Oxford University Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gilks%
+}{%
+Gilks%
+}{%
+{\protect \APACyear {2005}}%
+}]{%
+gilks2005markov}
+\APACinsertmetastar {%
+gilks2005markov}%
+\begin{APACrefauthors}%
+Gilks, W\BPBI R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2005}.
+\newblock
+\APACrefbtitle {Markov chain monte carlo} {Markov chain monte carlo}.
+\newblock
+\APACaddressPublisher{}{Wiley Online Library}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hoffrage%
+}{%
+Hoffrage%
+}{%
+{\protect \APACyear {1999}}%
+}]{%
+hoffrage1999people}
+\APACinsertmetastar {%
+hoffrage1999people}%
+\begin{APACrefauthors}%
+Hoffrage, U.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1999}{}{}.
+\newblock
+\APACrefbtitle {When do people use simple heuristics, and how can we tell?}
+  {When do people use simple heuristics, and how can we tell?}
+\newblock
+\APACaddressPublisher{}{New York: Oxford University Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lieder%
+, Griffiths%
+\BCBL {}\ \BBA {} Goodman%
+}{%
+Lieder%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2012}}%
+}]{%
+lieder2012burn}
+\APACinsertmetastar {%
+lieder2012burn}%
+\begin{APACrefauthors}%
+Lieder, F.%
+, Griffiths, T.%
+\BCBL {}\ \BBA {} Goodman, N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Burn-in, bias, and the rationality of anchoring}
+  {Burn-in, bias, and the rationality of anchoring}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Advances in neural information processing systems}
+  {Advances in neural information processing systems}\ (\BPGS\ 2690--2798).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lindley%
+, Lindley%
+\BCBL {}\ \BBA {} Lindley%
+}{%
+Lindley%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1972}}%
+}]{%
+lindley1972bayesian}
+\APACinsertmetastar {%
+lindley1972bayesian}%
+\begin{APACrefauthors}%
+Lindley, D\BPBI V.%
+, Lindley, D\BPBI V.%
+\BCBL {}\ \BBA {} Lindley, D\BPBI V.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1972}.
+\newblock
+\APACrefbtitle {Bayesian statistics: A review} {Bayesian statistics: A review}.
+\newblock
+\APACaddressPublisher{}{SIAM}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Marjoram%
+, Molitor%
+, Plagnol%
+\BCBL {}\ \BBA {} Tavar{\'e}%
+}{%
+Marjoram%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2003}}%
+}]{%
+marjoram2003markov}
+\APACinsertmetastar {%
+marjoram2003markov}%
+\begin{APACrefauthors}%
+Marjoram, P.%
+, Molitor, J.%
+, Plagnol, V.%
+\BCBL {}\ \BBA {} Tavar{\'e}, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2003}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Markov chain Monte Carlo without likelihoods} {Markov
+  chain monte carlo without likelihoods}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Proceedings of the National Academy of
+  Sciences}{100}{26}{15324--15328}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Oaksford%
+\ \BBA {} Chater%
+}{%
+Oaksford%
+\ \BBA {} Chater%
+}{%
+{\protect \APACyear {2007}}%
+}]{%
+oaksford2007bayesian}
+\APACinsertmetastar {%
+oaksford2007bayesian}%
+\begin{APACrefauthors}%
+Oaksford, M.%
+\BCBT {}\ \BBA {} Chater, N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2007}.
+\newblock
+\APACrefbtitle {Bayesian rationality the probabilistic approach to human
+  reasoning.} {Bayesian rationality the probabilistic approach to human
+  reasoning.}
+\newblock
+\APACaddressPublisher{}{Oxford University Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Poupart%
+}{%
+Poupart%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+poupart2010bayesian}
+\APACinsertmetastar {%
+poupart2010bayesian}%
+\begin{APACrefauthors}%
+Poupart, P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Bayesian reinforcement learning} {Bayesian reinforcement
+  learning}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Encyclopedia of Machine Learning} {Encyclopedia of
+  machine learning}\ (\BPGS\ 90--93).
+\newblock
+\APACaddressPublisher{}{Springer}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Turner%
+\ \BBA {} Van~Zandt%
+}{%
+Turner%
+\ \BBA {} Van~Zandt%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+turner2012tutorial}
+\APACinsertmetastar {%
+turner2012tutorial}%
+\begin{APACrefauthors}%
+Turner, B\BPBI M.%
+\BCBT {}\ \BBA {} Van~Zandt, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A tutorial on approximate Bayesian computation} {A
+  tutorial on approximate bayesian computation}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Mathematical Psychology}{56}{2}{69--85}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

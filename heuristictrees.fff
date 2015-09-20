@@ -1,0 +1,71 @@
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[htb!]
+  \caption{Plots of underlying data, the resulting distances, and the posterior mean dependent on $\epsilon$.}
+\label{fig:linexample}
+  \centering
+    \includegraphics[scale=0.7]{figs/linexample.pdf}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+
+\caption{Underlying TTB-model. Only cues $C_1, C_2,C_3$ are important.}
+\label{fig:ttbtruth}
+\begin{center}
+\input{figs/ttbtree.tikz}
+\end{center}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[htb!]
+  \caption{Trace plots of recovery simulation}
+\label{ttbrecover}
+  \centering
+    \includegraphics[scale=0.5]{figs/ttbrecovertrace.pdf}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[htb!]
+  \caption{Density over trees per sampling step}
+\label{fig:treedense}
+  \centering
+    \includegraphics[scale=0.5]{figs/treedensity.pdf}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[htb!]
+  \caption{Trace plots of city size data estimation.}
+\label{fig:citytrace}
+  \centering
+    \includegraphics[scale=0.5]{figs/citytrace.pdf}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[htb!]
+  \caption{Assessed computational time of different $\epsilon$-$\rho$-combinations for $\eta=\{1,10,50,100\}$ samples.}
+\label{fig:timetradeoff}
+  \centering
+    \includegraphics[scale=0.6]{figs/timetradeoff.pdf}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[htb!]
+  \caption{Assessed performance of different $\epsilon$-$\rho$-combinations for $\eta=\{1,10,50,100\}$ samples.}
+\label{fig:performancetradeoff}
+  \centering
+    \includegraphics[scale=0.6]{figs/performancetradeoff.pdf}
+\end{figure*}
+\efloatseparator
+ 

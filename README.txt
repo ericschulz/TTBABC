@@ -1,5 +1,5 @@
 README
-Material foe TTB-ABC paper including all examples, figures, and text. 
+Material for TTB-ABC paper including all examples, figures, and text. 
 Copyright@Schulz, Speekenbrink & Meder. 
 Growing Heuristics via Approximate Bayesian Computation.
 

@@ -1,0 +1,56 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: heuristictrees.aux
+The style file: apacite.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: Mybibo.bib
+apacite.bst [2013/07/21 v6.03 APA bibliography style]
+You've used 18 entries,
+            6951 wiz_defined-function locations,
+            1377 strings with 13629 characters,
+and the built_in function-call counts, 31733 in all, are:
+= -- 3982
+> -- 275
+< -- 1390
++ -- 1385
+- -- 36
+* -- 1933
+:= -- 5562
+add.period$ -- 77
+call.type$ -- 18
+change.case$ -- 308
+chr.to.int$ -- 0
+cite$ -- 36
+duplicate$ -- 848
+empty$ -- 1338
+format.name$ -- 439
+if$ -- 6239
+int.to.chr$ -- 0
+int.to.str$ -- 54
+missing$ -- 0
+newline$ -- 448
+num.names$ -- 144
+pop$ -- 609
+preamble$ -- 1
+purify$ -- 72
+quote$ -- 0
+skip$ -- 2187
+stack$ -- 0
+substring$ -- 1531
+swap$ -- 505
+text.length$ -- 48
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 1568
+warning$ -- 0
+while$ -- 147
+width$ -- 0
+write$ -- 552

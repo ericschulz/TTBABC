@@ -22,7 +22,7 @@
 ##trials: scalar with the overall number of trials, will equal nsims
 
 
-ttbabcfit<-function(X, y, nsims=100, epsilon=0.9, proportion=0.1, countprior=c(25,50), progress=TRUE){
+ttbabcfit<-function(X, y, nsims=100, epsilon=0.9, proportion=0.1, nsamples=100, countprior=c(25,50), progress=TRUE){
   
   #First, perform some checks:
   ##X-values have to be either -1,0, or 1 for loss, draw, win
@@ -77,7 +77,8 @@ ttbabcfit<-function(X, y, nsims=100, epsilon=0.9, proportion=0.1, countprior=c(2
     #create proposal weights in dependency of the weight balls
     ttbprop$w<-ifelse(rbinom(nrow(ttbprop),1, prob=pweights/sum(pweights))==0,-1,1)
     #sample one comparison from learning set of the size given by input proportion
-    dprop<-d[sample(1:nrow(d), round(proportion*nrow(d))),]
+    #dprop<-d[sample(1:nrow(d), round(proportion*nrow(d))),]
+    dprop<-d[sample(1:nrow(d), nsamples, replace = TRUE),]
     #initialize the y-proposal
     yprop<-rep(0, nrow(dprop))
     #generate predictions for y proposal

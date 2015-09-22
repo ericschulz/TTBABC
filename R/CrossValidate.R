@@ -45,8 +45,8 @@ allperms<-matrix((1:endx)[permutations(endx)], ncol=endx)
 #weights have to be give
 weights<-sign(cor(X,y))
 #take the beast finds best cue order by brute force
-m<-takethebeast(validities = allperms, weights=weights[,1], x=as.matrix(X), y=y)  
-#remeber the best order
+m<-takethebeast(validities = allperms-1, weights=weights[,1], x=as.matrix(X), y=y)  
+#remember the best order
 bestorder<-allperms[which.max(m$checks),]
 #get rid of big vectors and matrices
 rm(m,allperms)
@@ -56,7 +56,7 @@ bestscore<-ifelse(bestscore==Inf,9,bestscore)
 #get sume
 best<-sum(bestscore)
 #times of comparisons here fixed to be 30
-times<-30
+times<-50
 #proportions of learning set
 props<-seq(0.1,0.9,0.1)
 #final storage matrix
@@ -89,7 +89,7 @@ for (h in seq_along(props)){
     
     #TTB_ABC
     ##Fit model
-    mabc<-ttbabcfit(X=X_learn, y=y_learn, epsilon=0.75, proportion=0.02)
+    mabc<-ttbabcfit(X=X_learn, y=y_learn, epsilon=0.65, nsamples=100, nsims=500)
     #get mean predictive performance
     dout$abcmu[i]<-mean(ttbabcpredict(mabc, testset[,-ncol(testset)])$class==y_test)
     #get importance order
@@ -109,13 +109,15 @@ for (h in seq_along(props)){
     ##positive validity
     positive<-apply(X_learn,2, function(x){sum(x==y_learn)/sum(x!=0)})
     positive<-ifelse(is.nan(positive), 0, positive)
+    positive<-ifelse(is.na(positive), 0, positive)
     #negative validty
     negative<-apply(X_learn,2, function(x){sum(x==-y_learn)/sum(x!=0)})
     negative<-ifelse(is.nan(negative), 0, negative)
+    negative<-ifelse(is.na(negative), 0, negative)
     #classic order
     classicorder<-matrix(rank(1-rowMaxs(cbind(positive, negative))), nrow=1)
     #predictions
-    preds<-sign(ttb(validities = classicorder, weights = sign(positive-0.50001), x = as.matrix(X_test)))
+    preds<-sign(ttb(validities = classicorder-1, weights = sign(positive-0.50001), x = as.matrix(X_test)))
     #store predictive performance
     dout$ttbmu[i]<-mean(preds$class==y_test)
     #get importance
@@ -141,7 +143,7 @@ for (h in seq_along(props)){
     #updated order
     updatedorder<-matrix(rank(1-updated), nrow=1)
     #get predictions
-    preds<-sign(ttb(validities = updatedorder, weights = sign(positive-0.50001), x = as.matrix(X_test)))
+    preds<-sign(ttb(validities = updatedorder-1, weights = sign(positive-0.50001), x = as.matrix(X_test)))
     #check predictive performance
     dout$ttnmu[i]<-mean(preds$class==y_test)
     #get importance
@@ -158,9 +160,9 @@ for (h in seq_along(props)){
     dout$ttnscore[i]<-sum(ttnscore)/best
   }
   #get mean performance per model
-  dfinal[h,1:6]<-apply(dout,2,mean)
+  dfinal[h,1:6]<-apply(dout,2,function(x){mean(x, na.omit=TRUE)})
   #get standard error of mean performance per model
-  dfinal[h,7:12]<-apply(dout,2, function(x){sd(x)/sqrt(length(x))})
+  dfinal[h,7:12]<-apply(dout,2, function(x){sd(na.omit(x))/sqrt(length(na.omit(x)))})
   #save on the go
 write.csv(dfinal, "data/citycross.csv")
 }

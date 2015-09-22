@@ -1,0 +1,308 @@
+@article{broder2000assessing,
+  title={Assessing the empirical validity of the" Take-the-best" heuristic as a model of human probabilistic inference.},
+  author={Br{\"o}der, Arndt},
+  journal={Journal of Experimental Psychology: Learning, Memory, and Cognition},
+  volume={26},
+  number={5},
+  pages={1332},
+  year={2000},
+  publisher={American Psychological Association}
+}
+
+@book{breiman1984classification,
+  title={Classification and regression trees},
+  author={Breiman, Leo and Friedman, Jerome and Stone, Charles J and Olshen, Richard A},
+  year={1984},
+  publisher={CRC press}
+}
+
+@article{broder2012quest,
+  title={The quest for take the best—insights and outlooks from experimental research},
+  author={Br{\"o}der, Arndt},
+  journal={Ecological rationality: Intelligence in the world},
+  pages={216--240},
+  year={2012},
+  publisher={Oxford University Press New York}
+}
+
+@article{brooks2003bayesian,
+  title={Bayesian computation: a statistical revolution},
+  author={Brooks, Stephen P},
+  journal={Philosophical Transactions of the Royal Society of London. Series A: Mathematical, Physical and Engineering Sciences},
+  volume={361},
+  number={1813},
+  pages={2681--2697},
+  year={2003},
+  publisher={The Royal Society}
+}
+
+@article{caron2012generalized,
+  title={Generalized Polya urn for time-varying Dirichlet process mixtures},
+  author={Caron, Fran{\c{c}}ois and Davy, Manuel and Doucet, Arnaud},
+  journal={arXiv preprint arXiv:1206.5254},
+  year={2012}
+}
+
+@article{chater2003fast,
+  title={Fast, frugal, and rational: How rational norms explain behavior},
+  author={Chater, Nick and Oaksford, Mike and Nakisa, Ramin and Redington, Martin},
+  journal={Organizational behavior and human decision processes},
+  volume={90},
+  number={1},
+  pages={63--86},
+  year={2003},
+  publisher={Elsevier}
+}
+
+@article{csillery2010approximate,
+  title={Approximate Bayesian computation (ABC) in practice},
+  author={Csill{\'e}ry, Katalin and Blum, Michael GB and Gaggiotti, Oscar E and Fran{\c{c}}ois, Olivier},
+  journal={Trends in ecology \& evolution},
+  volume={25},
+  number={7},
+  pages={410--418},
+  year={2010},
+  publisher={Elsevier}
+}
+
+
+
+@article{dagum1993approximating,
+  title={Approximating probabilistic inference in Bayesian belief networks is NP-hard},
+  author={Dagum, Paul and Luby, Michael},
+  journal={Artificial intelligence},
+  volume={60},
+  number={1},
+  pages={141--153},
+  year={1993},
+  publisher={Elsevier}
+}
+
+@inproceedings{dechter2013bootstrap,
+  title={Bootstrap learning via modular concept discovery},
+  author={Dechter, Eyal and Malmaud, Jon and Adams, Ryan P and Tenenbaum, Joshua B},
+  booktitle={Proceedings of the Twenty-Third international joint conference on Artificial Intelligence},
+  pages={1302--1309},
+  year={2013},
+  organization={AAAI Press}
+}
+
+@article{duvenaud2013structure,
+  title={Structure discovery in nonparametric regression through compositional kernel search},
+  author={Duvenaud, David and Lloyd, James Robert and Grosse, Roger and Tenenbaum, Joshua B and Ghahramani, Zoubin},
+  journal={arXiv preprint arXiv:1302.4922},
+  year={2013}
+}
+
+
+@article{gigerenzer1999betting,
+  title={Betting on one good reason: take the best and its relatives},
+  author={Gigerenzer, Gerd and Goldstein, Daniel G},
+  journal={Simple Heuristics that Make Us Smart. Oxford University Press, New York},
+  pages={75--95},
+  year={1999}
+}
+
+@book{gigerenzer1999simple,
+  title={Simple heuristics that make us smart},
+  author={Gigerenzer, Gerd and Todd, Peter M},
+  year={1999},
+  publisher={Oxford University Press}
+}
+
+@book{gigerenzer2002bounded,
+  title={Bounded rationality: The adaptive toolbox},
+  author={Gigerenzer, Gerd and Selten, Reinhard},
+  year={2002},
+  publisher={Mit Press}
+}
+
+@article{gigerenzer2009homo,
+  title={Homo heuristicus: Why biased minds make better inferences},
+  author={Gigerenzer, Gerd and Brighton, Henry},
+  journal={Topics in Cognitive Science},
+  volume={1},
+  number={1},
+  pages={107--143},
+  year={2009},
+  publisher={Wiley Online Library}
+}
+
+@article{gigerenzer2011heuristic,
+  title={Heuristic decision making},
+  author={Gigerenzer, Gerd and Gaissmaier, Wolfgang},
+  journal={Annual review of psychology},
+  volume={62},
+  pages={451--482},
+  year={2011},
+  publisher={Annual Reviews}
+}
+
+@book{gilks2005markov,
+  title={Markov chain monte carlo},
+  author={Gilks, Walter R},
+  year={2005},
+  publisher={Wiley Online Library}
+}
+
+@article{harrison1978hedonic,
+  title={Hedonic housing prices and the demand for clean air},
+  author={Harrison, David and Rubinfeld, Daniel L},
+  journal={Journal of environmental economics and management},
+  volume={5},
+  number={1},
+  pages={81--102},
+  year={1978},
+  publisher={Elsevier}
+}
+
+@misc{hoffrage1999people,
+  title={When do people use simple heuristics, and how can we tell?},
+  author={Hoffrage, Ulrich},
+  year={1999},
+  publisher={New York: Oxford University Press}
+}
+
+
+@article{katsikopoulos2006naive,
+  title={Naive heuristics for paired comparisons: Some results on their relative accuracy},
+  author={Katsikopoulos, Konstantinos V and Martignon, Laura},
+  journal={Journal of Mathematical Psychology},
+  volume={50},
+  number={5},
+  pages={488--494},
+  year={2006},
+  publisher={Elsevier}
+}
+
+
+@inproceedings{lieder2012burn,
+  title={Burn-in, bias, and the rationality of anchoring},
+  author={Lieder, Falk and Griffiths, Thomas and Goodman, Noah},
+  booktitle={Advances in neural information processing systems},
+  pages={2690--2798},
+  year={2012}
+}
+
+@book{lindley1972bayesian,
+  title={Bayesian statistics: A review},
+  author={Lindley, Dennis Victor and Lindley, Dennis V and Lindley, Dennis V},
+  year={1972},
+  publisher={SIAM}
+}
+
+
+@article{marewski2011cognitive,
+  title={Cognitive niches: an ecological model of strategy selection.},
+  author={Marewski, Julian N and Schooler, Lael J},
+  journal={Psychological Review},
+  volume={118},
+  number={3},
+  pages={393},
+  year={2011},
+  publisher={American Psychological Association}
+}
+
+@article{marjoram2003markov,
+  title={Markov chain Monte Carlo without likelihoods},
+  author={Marjoram, Paul and Molitor, John and Plagnol, Vincent and Tavar{\'e}, Simon},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={100},
+  number={26},
+  pages={15324--15328},
+  year={2003},
+  publisher={National Acad Sciences}
+}
+
+@article{netharecognizing,
+  title={Recognizing the Truth: Automatically Ranking LOD Query Results with a Cluster Heuristic},
+  author={Netha, Hansj{\"o}rg and Schoolera, Arjon Buikstrab Lael and ten Teijeb, Annette and van Harmelenb, Frank}
+}
+
+@article{newell2004search,
+  title={Search strategies in decision making: The success of “success”},
+  author={Newell, Ben R and Rakow, Tim and Weston, Nicola J and Shanks, David R},
+  journal={Journal of Behavioral Decision Making},
+  volume={17},
+  number={2},
+  pages={117--137},
+  year={2004},
+  publisher={Wiley Online Library}
+}
+
+@book{oaksford2007bayesian,
+  title={Bayesian rationality the probabilistic approach to human reasoning.},
+  author={Oaksford, Mike and Chater, Nick},
+  year={2007},
+  publisher={Oxford University Press}
+}
+
+@incollection{poupart2010bayesian,
+  title={Bayesian reinforcement learning},
+  author={Poupart, Pascal},
+  booktitle={Encyclopedia of Machine Learning},
+  pages={90--93},
+  year={2010},
+  publisher={Springer}
+}
+
+@article{rieskamp2006ssl,
+  title={SSL: a theory of how people learn to select strategies.},
+  author={Rieskamp, J{\"o}rg and Otto, Philipp E},
+  journal={Journal of Experimental Psychology: General},
+  volume={135},
+  number={2},
+  pages={207},
+  year={2006},
+  publisher={American Psychological Association}
+}
+
+@article{scheibehenne2013testing,
+  title={Testing adaptive toolbox models: A Bayesian hierarchical approach.},
+  author={Scheibehenne, Benjamin and Rieskamp, J{\"o}rg and Wagenmakers, Eric-Jan},
+  journal={Psychological review},
+  volume={120},
+  number={1},
+  pages={39},
+  year={2013},
+  publisher={American Psychological Association}
+}
+
+@inproceedings{schulz2014predict,
+  title={Predict choice: A comparison of 21 mathematical models},
+  author={Schulz, Eric and Speekenbrink, Maarten and Shanks, David R},
+  year={2014},
+  organization={Cognitive Science Society}
+}
+
+@article{todd2007mechanisms,
+  title={Mechanisms of ecological rationality: heuristics and environments that make us smart},
+  author={Todd, Peter M and Gigerenzer, Gerd},
+  journal={The Oxford handbook of evolutionary psychology},
+  pages={197--210},
+  year={2007}
+}
+
+@article{turner2012tutorial,
+  title={A tutorial on approximate Bayesian computation},
+  author={Turner, Brandon M and Van Zandt, Trisha},
+  journal={Journal of Mathematical Psychology},
+  volume={56},
+  number={2},
+  pages={69--85},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@article{quinlan1987simplifying,
+  title={Simplifying decision trees},
+  author={Quinlan, J. Ross},
+  journal={International journal of man-machine studies},
+  volume={27},
+  number={3},
+  pages={221--234},
+  year={1987},
+  publisher={Elsevier}
+}
+
+

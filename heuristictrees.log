@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.6.2)  18 SEP 2015 10:01
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.6.2)  22 SEP 2015 20:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -902,13 +902,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [7]
 
-LaTeX Warning: Reference `reg1' on page 8 undefined on input line 98.
+LaTeX Warning: Reference `reg1' on page 8 undefined on input line 102.
 
 [8]
 \openout4 = `heuristictrees.fff'.
 
  (heuristictrees.fff) (./algs/ttbabc.alg) [9]
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 136.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 140.
 
 
 (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
@@ -922,95 +922,96 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [11]
 [12] [13]
 
-LaTeX Warning: Reference `fig:ttbperf' on page 14 undefined on input line 216.
+LaTeX Warning: Reference `fig:ttbperf' on page 14 undefined on input line 225.
 
-[14] [15]
+[14]
+Underfull \vbox (badness 7099) has occurred while \output is active []
 
-Class apa6 Warning: \bibliographystyle command ignored on input line 278.
+ [15]
+[16]
 
-(./heuristictrees.bbl [16]
+Class apa6 Warning: \bibliographystyle command ignored on input line 287.
+
+(./heuristictrees.bbl [17]
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
 Underfull \vbox (badness 2310) has occurred while \output is active []
 
- [17
+ [18
 
 ])
-AED endfloat: Processing end Figures and Tables [18] (./heuristictrees.fff
-<figs/linexample.pdf, id=94, 578.16pt x 867.24pt>
+AED endfloat: Processing end Figures and Tables [19] (./heuristictrees.fff
+<figs/linexample.pdf, id=98, 578.16pt x 867.24pt>
 File: figs/linexample.pdf Graphic file (type pdf)
  <use figs/linexample.pdf>
 Package pdftex.def Info: figs/linexample.pdf used on input line 7.
 (pdftex.def)             Requested size: 404.70924pt x 607.06387pt.
 
-[19
+[20
 
 
- <./figs/linexample.pdf>] (./figs/ttbtree.tikz) [20
+ <./figs/linexample.pdf>] (./figs/ttbtree.tikz) [21
 
 ]
-<figs/ttbrecovertrace.pdf, id=119, 505.89pt x 505.89pt>
+<figs/ttbrecovertrace.pdf, id=122, 505.89pt x 505.89pt>
 File: figs/ttbrecovertrace.pdf Graphic file (type pdf)
 
 <use figs/ttbrecovertrace.pdf>
 Package pdftex.def Info: figs/ttbrecovertrace.pdf used on input line 28.
 (pdftex.def)             Requested size: 252.94437pt x 252.94437pt.
- [21
+ [22
 
  <./figs/ttbrecovertrace.pdf>]
-<figs/treedensity.pdf, id=130, 722.7pt x 361.35pt>
+<figs/treedensity.pdf, id=133, 722.7pt x 361.35pt>
 File: figs/treedensity.pdf Graphic file (type pdf)
  <use figs/treedensity.pdf>
 Package pdftex.def Info: figs/treedensity.pdf used on input line 38.
 (pdftex.def)             Requested size: 361.3491pt x 180.67456pt.
 
-[22
+[23
 
  <./figs/treedensity.pdf>]
-<figs/citytrace.pdf, id=145, 505.89pt x 505.89pt>
+<figs/citytrace.pdf, id=148, 505.89pt x 505.89pt>
 File: figs/citytrace.pdf Graphic file (type pdf)
  <use figs/citytrace.pdf>
 Package pdftex.def Info: figs/citytrace.pdf used on input line 48.
 (pdftex.def)             Requested size: 252.94437pt x 252.94437pt.
 
-[23
+[24
 
  <./figs/citytrace.pdf>]
-<figs/timetradeoff.pdf, id=159, 578.16pt x 578.16pt>
+<figs/timetradeoff.pdf, id=162, 578.16pt x 578.16pt>
 File: figs/timetradeoff.pdf Graphic file (type pdf)
 
 <use figs/timetradeoff.pdf>
 Package pdftex.def Info: figs/timetradeoff.pdf used on input line 58.
 (pdftex.def)             Requested size: 346.89867pt x 346.89867pt.
- [24
+ [25
 
  <./figs/timetradeoff.pdf>]
-<figs/performancetradeoff.pdf, id=170, 578.16pt x 578.16pt>
+<figs/performancetradeoff.pdf, id=174, 578.16pt x 578.16pt>
 File: figs/performancetradeoff.pdf Graphic file (type pdf)
 
 <use figs/performancetradeoff.pdf>
 Package pdftex.def Info: figs/performancetradeoff.pdf used on input line 68.
 (pdftex.def)             Requested size: 346.89867pt x 346.89867pt.
- [25
+ [26
 
  <./figs/performancetradeoff.pdf>])
 (./heuristictrees.aux)
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 17102 strings out of 493304
- 298730 string characters out of 6139872
- 380524 words of memory out of 5000000
- 20101 multiletter control sequences out of 15000+600000
+ 17127 strings out of 493304
+ 299380 string characters out of 6139872
+ 379872 words of memory out of 5000000
+ 20126 multiletter control sequences out of 15000+600000
  47965 words of font info for 51 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 68i,20n,69p,3445b,2343s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 68i,20n,69p,3446b,2343s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dv
 ips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share
 /texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm
@@ -1023,10 +1024,10 @@ ts/type1/public/lm/lmmi12.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi8.pfb
 hare/texmf/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf/fonts/type1/publi
 c/lm/lmsy6.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy8.pfb></usr/share/te
 xmf/fonts/type1/public/lm/lmtt12.pfb>
-Output written on heuristictrees.pdf (25 pages, 5551403 bytes).
+Output written on heuristictrees.pdf (26 pages, 5554752 bytes).
 PDF statistics:
- 233 PDF objects out of 1000 (max. 8388607)
- 159 compressed objects within 2 object streams
+ 236 PDF objects out of 1000 (max. 8388607)
+ 161 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  157 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -164,6 +164,70 @@ Dagum, P.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Dechter%
+, Malmaud%
+, Adams%
+\BCBL {}\ \BBA {} Tenenbaum%
+}{%
+Dechter%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+dechter2013bootstrap}
+\APACinsertmetastar {%
+dechter2013bootstrap}%
+\begin{APACrefauthors}%
+Dechter, E.%
+, Malmaud, J.%
+, Adams, R\BPBI P.%
+\BCBL {}\ \BBA {} Tenenbaum, J\BPBI B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Bootstrap learning via modular concept discovery}
+  {Bootstrap learning via modular concept discovery}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the Twenty-Third international joint
+  conference on Artificial Intelligence} {Proceedings of the twenty-third
+  international joint conference on artificial intelligence}\ (\BPGS\
+  1302--1309).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Duvenaud%
+, Lloyd%
+, Grosse%
+, Tenenbaum%
+\BCBL {}\ \BBA {} Ghahramani%
+}{%
+Duvenaud%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+duvenaud2013structure}
+\APACinsertmetastar {%
+duvenaud2013structure}%
+\begin{APACrefauthors}%
+Duvenaud, D.%
+, Lloyd, J\BPBI R.%
+, Grosse, R.%
+, Tenenbaum, J\BPBI B.%
+\BCBL {}\ \BBA {} Ghahramani, Z.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Structure discovery in nonparametric regression through
+  compositional kernel search} {Structure discovery in nonparametric regression
+  through compositional kernel search}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{arXiv preprint arXiv:1302.4922}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Gigerenzer%
 \ \BBA {} Brighton%
 }{%
@@ -397,6 +461,92 @@ Marjoram, P.%
 \newblock
 \APACjournalVolNumPages{Proceedings of the National Academy of
   Sciences}{100}{26}{15324--15328}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Muggleton%
+}{%
+Muggleton%
+}{%
+{\protect \APACyear {1994}}%
+}]{%
+muggleton1994bayesian}
+\APACinsertmetastar {%
+muggleton1994bayesian}%
+\begin{APACrefauthors}%
+Muggleton, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1994}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Bayesian inductive logic programming} {Bayesian
+  inductive logic programming}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the seventh annual conference on
+  Computational learning theory} {Proceedings of the seventh annual conference
+  on computational learning theory}\ (\BPGS\ 3--11).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Netha%
+, Schoolera%
+, ten Teijeb%
+\BCBL {}\ \BBA {} van Harmelenb%
+}{%
+Netha%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+netharecognizing}
+\APACinsertmetastar {%
+netharecognizing}%
+\begin{APACrefauthors}%
+Netha, H.%
+, Schoolera, A\BPBI B\BPBI L.%
+, ten Teijeb, A.%
+\BCBL {}\ \BBA {} van Harmelenb, F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Recognizing the Truth: Automatically Ranking LOD Query
+  Results with a Cluster Heuristic} {Recognizing the truth: Automatically
+  ranking lod query results with a cluster heuristic}.{\BBCQ}
+\newblock
+
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Newell%
+, Rakow%
+, Weston%
+\BCBL {}\ \BBA {} Shanks%
+}{%
+Newell%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2004}}%
+}]{%
+newell2004search}
+\APACinsertmetastar {%
+newell2004search}%
+\begin{APACrefauthors}%
+Newell, B\BPBI R.%
+, Rakow, T.%
+, Weston, N\BPBI J.%
+\BCBL {}\ \BBA {} Shanks, D\BPBI R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2004}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Search strategies in decision making: The success of
+  “success”} {Search strategies in decision making: The success of
+  “success”}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Behavioral Decision
+  Making}{17}{2}{117--137}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%

@@ -89,7 +89,7 @@ for (h in seq_along(props)){
     
     #TTB_ABC
     ##Fit model
-    mabc<-ttbabcfit(X=X_learn, y=y_learn, epsilon=0.65, nsamples=100, nsims=500)
+    mabc<-ttbabcfit(X=X_learn, y=y_learn, epsilon=0.65, nsamples=80, nsims=500)
     #get mean predictive performance
     dout$abcmu[i]<-mean(ttbabcpredict(mabc, testset[,-ncol(testset)])$class==y_test)
     #get importance order

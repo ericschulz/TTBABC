@@ -489,12 +489,13 @@ Muggleton, S.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Netha%
-, Schoolera%
-, ten Teijeb%
-\BCBL {}\ \BBA {} van Harmelenb%
+Neth%
+, Schooler%
+, Buikstra%
+, Teije%
+\BCBL {}\ \BBA {} van Harmelen%
 }{%
-Netha%
+Neth%
 \ \protect \BOthers {.}}{%
 {\protect \APACyear {{\protect \bibnodate {}}}}%
 }]{%
@@ -502,10 +503,11 @@ netharecognizing}
 \APACinsertmetastar {%
 netharecognizing}%
 \begin{APACrefauthors}%
-Netha, H.%
-, Schoolera, A\BPBI B\BPBI L.%
-, ten Teijeb, A.%
-\BCBL {}\ \BBA {} van Harmelenb, F.%
+Neth, H.%
+, Schooler, L.%
+, Buikstra, A.%
+, Teije, A.%
+\BCBL {}\ \BBA {} van Harmelen, F.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
